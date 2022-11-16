@@ -1,0 +1,3 @@
+Design system => documentação dos padrões que se segue no layout de diversas
+aplicações dentro de uma empresa
+- Todo e qualquer elemento visual que pode ser compartilhado em qualquer aplicação da empresa
