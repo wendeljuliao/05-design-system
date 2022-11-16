@@ -1,0 +1,2 @@
+import{A as t}from"./index.f2179c28.js";import"./index.ee81fd87.js";import"./iframe.2bbfae8e.js";import"./index.3b2f5a3d.js";import"./jsx-runtime.16a3840d.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/wendeljuliao.png",alt:"Wendel Juliao"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.b6b64123.js.map

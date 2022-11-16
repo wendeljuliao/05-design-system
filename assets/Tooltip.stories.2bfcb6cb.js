@@ -1,0 +1,2 @@
+import{e as o}from"./index.f2179c28.js";import"./index.ee81fd87.js";import"./iframe.2bbfae8e.js";import"./index.3b2f5a3d.js";import"./jsx-runtime.16a3840d.js";const p={title:"Show/Tooltip",component:o,args:{date:"26 de Outubro",available:!0},argTypes:{date:{control:{type:"text"}},available:{control:{type:"boolean"}}}},l={},m=["Primary"];export{l as Primary,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories.2bfcb6cb.js.map
